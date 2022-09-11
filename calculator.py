@@ -4,4 +4,5 @@ print("sum is",first_no+second_no)
 gg="gg"
 print("sub=",first_no-second_no)
 #rd commit
-print("this app in dev for mul")
+print("this app in: dev for mul")
+#hi today date is 9th sep
